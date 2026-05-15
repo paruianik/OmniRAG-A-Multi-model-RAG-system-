@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 python-multipart
+python-dotenv
 langchain
 langchain-community
 langchain-core
@@ -12,5 +13,7 @@ sentence-transformers
 huggingface-hub
 pypdf
 unstructured
-python-dotenv
+beautifulsoup4
+lxml
 requests
+pillow
