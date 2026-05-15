@@ -3,4 +3,4 @@ Build a multi model RAG system that allow users to upload PDFs, images, videos o
 
 ## Homepage Preview
 
-![Homepage Screenshot](screenshots/sc.png)
+![Homepage Screenshot](screenshot/sc.png)
